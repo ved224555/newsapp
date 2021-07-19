@@ -1,0 +1,61 @@
+body {
+  background: #eee;
+}
+footer {
+  text-align: center;
+  color: white;
+  width: 100%;
+}
+html{
+  font-family: "Montserrat", sans-serif;
+}
+li a{
+  color:black;
+}
+td{
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: #fff;
+}
+.boardPage{
+  padding: 0px;
+}
+
+.fab{
+  padding:10px;
+}
+.follow_us{
+  padding-left: 200px;
+  margin-left:auto;
+}
+.follow_us a{
+  color: #fff;
+}
+.form_control {
+  margin-left: 100px;
+  width: 50%;
+}
+.new_footers td a{
+  color: #fff;
+}
+.new_footers{
+  background-color:#212529;
+  color:  #fff;
+  height: 300px;
+}
+.newsBox {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  height: 400px; /*change height later*/
+  float: left;
+}
+.newsBox1 {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  float: left;
+}
